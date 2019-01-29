@@ -15,23 +15,25 @@
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20image.PNG)
 
-![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20prdeict%20image.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/rgb%20unet%20image.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/rgb%20unet%20prdeict%20image.PNG)
 
-![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20image.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20train.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/6.PNG)
+
+![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20prdeict%20image.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image2.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image3.PNG)
+
+![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20image.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/abstract.PNG)
 
