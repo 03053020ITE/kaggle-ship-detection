@@ -1,5 +1,10 @@
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/abstract.PNG)
 
+
+
+
+
+
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/7.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/1.PNG)
@@ -28,21 +33,20 @@
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20train.PNG)
 
-![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20score%20image.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image2.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image3.PNG)
-#-----------------------------------------------------------
+
 首先使用`maskship.ipynb` 利用 Mask R-CNN and COCO pre-trained weights 來成功訓練並成功預測
+
 ```
 maskship.ipynb
 ```
 
-將只有船隻的圖片給保存下來，並將其存入資料夾
-
+並將只有船隻的圖片給保存下來，並將其存入資料夾
 ```
 imagetomask.ipynb
 ```
