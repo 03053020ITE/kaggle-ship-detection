@@ -1,8 +1,6 @@
-# Airbus Ship Detection Challenge
+#![image](https://github.com/03053020ITE/ship-detection/blob/master/abstract.PNG)
 
-![image](https://github.com/03053020ITE/ship-detection/blob/master/abstract.PNG)
-
-![image](https://github.com/03053020ITE/ship-detection/blob/master/7.PNG)
+##![image](https://github.com/03053020ITE/ship-detection/blob/master/7.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/1.PNG)
 
@@ -16,7 +14,7 @@
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/6.PNG)
 
-![image](https://github.com/03053020ITE/ship-detection/blob/master/8.PNG)
+##![image](https://github.com/03053020ITE/ship-detection/blob/master/8.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20image.PNG)
 
