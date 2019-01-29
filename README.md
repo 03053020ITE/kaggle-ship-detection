@@ -24,48 +24,48 @@ Loss
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/8.PNG)
 
-                                                    傳統 U-net
+                                                        傳統 U-net
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20image.PNG)
 
-                                                    RGB U-net
+                                                        RGB U-net
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/rgb%20unet%20image.PNG)
 
-                                                    簡化版 U-net
+                                                        簡化版 U-net
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20image.PNG)
 
-                                            Batchsize=2
-                                            Dataset= 28980(only have ship)
-                                            Epochs=50
-                                            Step for epochs=28980//2
-                                            Time= hours
-                                            Loss from 0.05299 to 0.0025
+                                                Batchsize=2
+                                                Dataset= 28980(only have ship)
+                                                Epochs=50
+                                                Step for epochs=28980//2
+                                                Time= hours
+                                                Loss from 0.05299 to 0.0025
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20train.PNG)
 
-                                                傳統 U-net predict
+                                                    傳統 U-net predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/6.PNG)
 
-                                             RGB U-net predict
+                                                    RGB U-net predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20prdeict%20image.PNG)
 
-                                            簡化版 U-net predict
+                                                    簡化版 U-net predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image.PNG)
 
-                                            簡化版 U-net predict
+                                                    簡化版 U-net predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/rgb%20unet%20prdeict%20image.PNG)
 
-                                             簡化版 U-net predict
+                                                    簡化版 U-net predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image2.PNG)
 
-                                             簡化版 U-net predict
+                                                    簡化版 U-net predict
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image3.PNG)
 
 
