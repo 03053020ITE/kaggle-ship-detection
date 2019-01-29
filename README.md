@@ -18,9 +18,9 @@
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/4.PNG)
 
-                                                        Loss
+                                                            Loss
 
-* ![image](https://github.com/03053020ITE/ship-detection/blob/master/5.PNG)
+![image](https://github.com/03053020ITE/ship-detection/blob/master/5.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/8.PNG)
 
