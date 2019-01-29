@@ -1,44 +1,71 @@
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/7.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/1.PNG)
-* 數據轉換
+
+數據轉換
+
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/2.PNG)
-* 數據儲存
-* 將全部有船的圖片取出分別放至 image 資料夾、label 資料夾
+
+數據儲存
+    將全部有船的圖片取出分別放至 image 資料夾、label 資料夾
+
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/3.PNG)
-* 數據擴增
-* 遙感圖像是多方向性俯拍，船隻朝向東、南、西、北都有可能
-* 90倍數旋轉(0度、90度、180度、270度角)
-* 影像模糊、銳化、亮度調整
+
+數據擴增
+   遙感圖像是多方向性俯拍，船隻朝向東、南、西、北都有可能
+   90倍數旋轉(0度、90度、180度、270度角)
+   影像模糊、銳化、亮度調整
+
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/4.PNG)
-* Loss
+
+Loss
+
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/5.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/8.PNG)
-* 傳統 U-net
+
+傳統 U-net
+
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20image.PNG)
-* RGB U-net
+
+RGB U-net
+
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/rgb%20unet%20image.PNG)
-* 簡化版 U-net
+
+簡化版 U-net
+
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20image.PNG)
-* Batchsize=2
-* Dataset= 28980(only have ship)
-* Epochs=50
-* Step for epochs=28980//2
-* Time= hours
-* Loss from 0.05299 to 0.0025
+
+                                Batchsize=2
+                                Dataset= 28980(only have ship)
+                                Epochs=50
+                                Step for epochs=28980//2
+                                Time= hours
+                                Loss from 0.05299 to 0.0025
+
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20train.PNG)
+
+                                傳統 U-net predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/6.PNG)
 
+                                RGB U-net predict
+
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20prdeict%20image.PNG)
+
+                                簡化版 U-net predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image.PNG)
 
+                                簡化版 U-net predict
+
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/rgb%20unet%20prdeict%20image.PNG)
+
+                                簡化版 U-net predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image2.PNG)
 
+                                簡化版 U-net predict
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image3.PNG)
 
 
