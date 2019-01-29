@@ -73,9 +73,13 @@ Loss from 0.05299 to 0.0025
 ```
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20train.PNG)
 
-### 傳統 U-net predict
+### Mask R-CNN predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/6.PNG)
+
+### 傳統 U-net predict
+
+![image](https://github.com/03053020ITE/kaggle-ship-detection/blob/master/traditional%20unet%20prdeict%20image.PNG)
 
 ### RGB U-net predict
 
