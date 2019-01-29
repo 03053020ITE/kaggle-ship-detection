@@ -24,72 +24,72 @@ Loss
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/8.PNG)
 
-                                            傳統 U-net
+                                                    傳統 U-net
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20image.PNG)
 
-                                            RGB U-net
+                                                    RGB U-net
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/rgb%20unet%20image.PNG)
 
-                                            簡化版 U-net
+                                                    簡化版 U-net
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20image.PNG)
 
-                                    Batchsize=2
-                                    Dataset= 28980(only have ship)
-                                    Epochs=50
-                                    Step for epochs=28980//2
-                                    Time= hours
-                                    Loss from 0.05299 to 0.0025
+                                            Batchsize=2
+                                            Dataset= 28980(only have ship)
+                                            Epochs=50
+                                            Step for epochs=28980//2
+                                            Time= hours
+                                            Loss from 0.05299 to 0.0025
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20train.PNG)
 
-                                        傳統 U-net predict
+                                                傳統 U-net predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/6.PNG)
 
-                                        RGB U-net predict
+                                             RGB U-net predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20prdeict%20image.PNG)
 
-                                     簡化版 U-net predict
+                                            簡化版 U-net predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image.PNG)
 
-                                     簡化版 U-net predict
+                                            簡化版 U-net predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/rgb%20unet%20prdeict%20image.PNG)
 
-                                     簡化版 U-net predict
+                                             簡化版 U-net predict
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image2.PNG)
 
-                                      簡化版 U-net predict
+                                             簡化版 U-net predict
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/simplify%20unet%20prdeict%20image3.PNG)
 
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/abstract.PNG)
 
-* Mask R-CNN and COCO pre-trained weights
+Mask R-CNN and COCO pre-trained weights
 * 利用 Mask R-CNN 和 COCO 的預訓練權重來成功訓練並預測
 ```
         maskship.ipynb
 ```
-* 數據儲存
+數據儲存
 * 將只有船隻的圖片保存下來，存入兩個資料夾內
 
 ```
         imagetomask.ipynb
 ```
-* 使用Traditional Unet、RGB Unet、Simplify Unet架構
+使用Traditional Unet、RGB Unet、Simplify Unet架構
 * 應用Traditional Unet、RGB Unet、Simplify Unet共三種架構、兩種數據集進行訓練(all、only have ship)，實現了三種不同的像素分割技術
 
 ```
         unet.ipynb
 ``` 
 
-* 數據擴增 (Data_Augmentation)
+數據擴增 (Data_Augmentation)
 * 改寫程式碼增加數據擴充技術
 
 ```
