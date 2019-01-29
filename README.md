@@ -1,7 +1,7 @@
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/abstract.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/7.PNG)
-#-----------------------------------------------------------
+
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/1.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/2.PNG)
@@ -13,18 +13,14 @@
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/5.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/6.PNG)
-#-----------------------------------------------------------
-![image](https://github.com/03053020ITE/ship-detection/blob/master/8.PNG)
-#-----------------------------------------------------------
-![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20image.PNG)
 
-![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20score%20image.PNG)
+![image](https://github.com/03053020ITE/ship-detection/blob/master/8.PNG)
+
+![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20image.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/traditional%20unet%20prdeict%20image.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/rgb%20unet%20image.PNG)
-
-![image](https://github.com/03053020ITE/ship-detection/blob/master/rgb%20unet%20score%20image.PNG)
 
 ![image](https://github.com/03053020ITE/ship-detection/blob/master/rgb%20unet%20prdeict%20image.PNG)
 
